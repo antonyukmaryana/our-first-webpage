@@ -1,12 +1,12 @@
-#_**{Our First Webpage}**_
+#_**Our First Webpage**_
 
-#### _{Creating a webpage using HTML}, {3/19/19}_
+## _Creating a webpage using HTML, 3/19/2019_
 
-#### By _**{By Svitlana Filatova and Maryana Antonyuk}**_
+#### _**By Svitlana Filatova and Maryana Antonyuk**_
 
 ## Description
 
-_{This webpage is about us and our first two days at Epicodus. We share our likes and commons.This page is done using HTML and its elements such inline components (images, links, lists)}_
+_This webpage is about us and our first two days at Epicodus. We share our likes and commons.This page is done using HTML and its elements such inline components (images, links, lists)_
 
 ## Setup/Installation Requirements
 
@@ -16,10 +16,10 @@ _{This webpage is about us and our first two days at Epicodus. We share our like
 
 ## Technologies Used
 
-_{HTML.}_
+_HTML_
 
 ### License
 
-*{This software is licensed under the MIT license}*
+*This software is licensed under the MIT license*
 
-Copyright (c) 2019 **_{Svitlana Filatova, Maryana Antonyuk}_**
+Copyright (c) 2019 _{Svitlana Filatova, Maryana Antonyuk}_
